@@ -99,7 +99,7 @@ In DnD, each skill is always associated with a specific ability score.  For exam
 **Boon & Bane** – Boon and Bane is similar to Advantage or Disadvantage for an attack / skill check in DnD.  If you have a Boon, you roll 3d6 for skill check and take the highest 2 rolls.  If you have a Bane, you roll 3d6 and take the lowest 2 rolls.
 
 
-##Combat
+## Combat
 
 ### Attack Roll
 The attack roll is a skill check for the appropriate combat skill / subskill (Gun Combat, Melee Combat, Heavy Weapons).  Usually its DC 8 to hit, with extra adjustments for range, etc.
@@ -123,32 +123,34 @@ Combat – other stuff.
 This page has good description of the other combat rules (initiative, types of action, etc) :
 https://www.traveller-srd.com/core-rules/combat/
 
-##Political Environment 
+## Political Environment 
 
 **[Slightly Houseruled]** There is a big, powerful Imperium (mostly human) that covers at least hundreds of systems.  It has similarities to the empire in Dune, Foundation, and Star Wars There are also other large empires of other races.  The Imperium is in decay, so things are unruly around the edges, where the fun stuff happens (the interior is still quite civilized and mostly boring).  There are noble houses in the Imperium, and the nobles are able to exert alot more personal power far from the center of the empire.  Some worlds are democratic, but its pretty rare.
 
-##Star Systems
-Some star systems have one or more inhabited planets, moons, or asteroids, and other don't.  **Garden Worlds** are planets (or moons) with an Earthlike environment and temperature range, and they are rare.  Most worlds are pretty crappy in one way or another (too hot, too cold, poisonous or non-existant atmosphere, high gravity, etc). Like Battlestar Galactica, humans have lost track of their original homeworld.
+## Star Systems
+Some star systems have one or more inhabited planets, moons, or asteroids, and other don't.  **Garden Worlds** are planets (or moons) with an Earthlike environment, temperature range, and gravity. Nice planets are uncommon, and most worlds are pretty crappy in one way or another (too hot, too cold, poisonous or non-existant atmosphere, high gravity, etc). Like Battlestar Galactica, humans have lost track of their original homeworld.
 
-##Starship tech
+Lots of worlds have native plants and animals. Intelligent aliens (sophants) also show up sometimes.
+
+## Starship tech
 
 (There are alot of rules for ships, but I'm not planning using them much to start.  This part is mostly fluff for now...)
 
-* Starships travel between systems using something called a **Jump Drive**.  It runs on hydrogen fusion, and some ships have "fuel scoops" that let them slurp up fuel from the atmosphere of gas giant planets (like Jupter, etc).  A ship usually only has enough fuel for one jump.  During jump, the ship is outside the regular universe and USUALLY cannot be directly tracked or attacked.  A jump of any intersteller distance takes about one week.  
+* Starships travel between systems using something called a **Jump Drive**.  It runs on hydrogen fusion, and some ships have "fuel scoops" that let them slurp up fuel from the atmosphere of gas giant planets (like Jupter, etc).  A ship usually only has enough fuel for one jump.  The presence of a gas giant thus makes it much easier to visit a system.  During jump, the ship is outside the regular universe and USUALLY cannot be directly tracked or attacked.  A jump of any intersteller distance takes about one week (in both subjective and outside time).
 
-	* Miscalculating a jump is very bad, since there is rarely enough fuel to jump again.  Best case is many years of sub-light travel to the closest system.  Jump calculation is covered by the **Astrogation** skill. 
+	* Miscalculating a jump is very bad news, since there is rarely enough fuel to jump again.  Best case is many years of sub-light travel to the closest system.  Jump calculation is covered by the **Astrogation** skill. 
 
-	* The DISTANCE a ship can travel in a jump depends on the technology level of its jump drive (ranges from 1 to 6 parsecs).  This is an interesting mechanic that makes star systems without a close neighbor have much less trade and outside interaction, because only rare hi-tech ships can get there.
+	* The DISTANCE a ship can travel in a jump depends on the technology level of its jump drive (ranges from 1 to 6 parsecs).  This is an interesting mechanic that makes star systems without a close neighbor have much less trade and outside interaction, because only rare hi-tech ships can get there.  Systems that are far off the beaten path, and rarely visited, are more likely to have weird and distinctive cultures.
 
-* Most ships also have something called a **Maneuver Drive** for shorter-distance travel, fighting, etc.  It is something like an impulse drive from Star Trek, and usually won't run out of fuel.  Only very low-tech ships use rocket engines.  
+* Most ships also have something called a **Maneuver Drive** for shorter-distance travel, fighting, etc.  It is something like an impulse drive from Star Trek, and usually won't run out of fuel.  Only low-tech ships use old-school rocket engines.  
 
 * Most ships have artificial gravity.  
 
-##Technology Level (TL)
+## Technology Level (TL)
 Worlds have a **Technology Level** ranging from 1 (pre-medieval) to 15 (super high-tech).  This strongly impacts what sorts of things are available there.  It is common for a low-tech world to still have a dingy starport and support a bit intersteller trade even if there is no tech to actually build ships there.  Also, a higher-tech elite may rule the low-tech plebs on a low-tech world.
 
-* Current earth-like tech is Tech Level 8.
-* Jump drive, maneuver drive, artificial gravity, and fusion power all become available at TL9.  (This seems weird to me and I might change it).
+* Current earth-like tech is TL8.
+* Jump drive, maneuver drive, artificial gravity, and fusion power all become available at TL9.  (This seems weird to me and I might change it... I like the idea of having room for decent tech without interstellar travel, like in the Expanse, etc.)
 
-##Computers 
-**[Sort of houseruled, mostly me rambling]** There are rules for computers in Traveller, and I may change them.  One thing I want to do is limit the Characteristic of regular digital computers (and storage) to be at or less than present-day power.  My excuse is that for some reason the laws of physics don't allow small transitors to work reliably.  So no fancy machine learning, and no searchable digital encyclopdia.  This makes actual human expertise more valuable, and means that people still use books, microfiche, and analog radios.  It could mean something like Dune where some people use specialized training or drugs to mimic computers. There will still some high-tech computing devices (like cybernetic implants, which are in the rules and are very cool) but they only work with quantum computing or some other weird-ass tech.
+## Computers 
+**[Sort of houseruled, mostly me rambling]** There are rules for computers in Traveller, and I may change them.  One thing I want to do is limit the power of regular digital computers (and storage) to be at or less than present-day tech.  My excuse is that for some reason the laws of physics don't allow small transitors and magnetic storage elements to work reliably.  So no fancy machine learning, and no searchable digital encyclopdia.... we have enough of that junk in real life.  This makes actual human expertise more valuable, and means that people will still use books, microfiche, and analog radios.  It could mean something like Dune where some people use specialized training or drugs to mimic computers. There will still some high-tech computing devices (like cybernetic implants, which are in the rules and are very cool) but they only through with quantum computing or some other weird-ass tech.
