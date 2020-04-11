@@ -14,7 +14,7 @@ Traveller is a d6 system, so everything is resolved with rolls of or more d6.  N
 
 * **No Character Levels** There are no overall levels, just levels in individual skills (more below).  There is also no concept of experience points!  Skills can advance slowly under special circumstances, but advancement is mostly driven by the story and by gear, ships, and social importance.
 
-* **No Hit Points and Armor Class**. Damage and armor work differently.  Armor soaks damage, instead of making you harder to hit, so no armor class.  Damage is subtracted directly from your physical characterisitc scores, so no hit points. This means you become less capable as you are get injured.
+* **No Hit Points and Armor Class**. Damage and armor work differently.  Armor soaks damage, instead of making you harder to hit, so no armor class.  Damage is subtracted directly from your physical characterisitc scores, so no hit points. This means you become less capable as you get injured.
 
 
 ## Races
@@ -122,6 +122,47 @@ Armor soaks damage... it usually does not make you harder to hit. If you have ar
 Combat – other stuff.
 This page has good description of the other combat rules (initiative, types of action, etc) :
 https://www.traveller-srd.com/core-rules/combat/
+
+## Inititive
+
+* Everybody rolls 2d6 DC 8 INT or DEX.  Effect is the initiative sore.
+* **TACTICS** Effect of Tactics check (DC 8) added to that side's initiative.
+
+
+
+## Combat Actions
+
+* Each round, everybody gets **1 Significant Action + 1 Minor action** OR **3 minor Actions**
+* Also, any number of Reactions.
+
+#### Significant Actions
+
+* Attack! (melee or range)
+* Miscellaneous
+* 
+#### Minor Actions
+
+* Aim : +1, cumulative, next attack on given target.  (+6 max)
+* stand / crouch / prone
+* Move : 6 meters for human
+* Miscellaneous
+
+#### Reactions
+
+* Each reaction --> -1 on next set of actions
+* Dodge (Melee or Range) : Impose penality of DEX mod or Athletics (Dexterity)
+* Dive : Impose -1 for prone, or -2 if cover is available.  But forgoes next action!
+* Parry : Impose Melee skill as negative mode
+
+
+## Range
+* Short range = 1/4 listed range for weapon. +1 DM
+* Long Range > 1 listed range -2 DM
+* Extreme Range > 2x range, < 4x : -4 DM
+
+## Zero G
+* Athletic (dex) check, or spin out of control.
+* Athletics (dex) check, as Significant Action, to regain control.
 
 ## Political Environment 
 
